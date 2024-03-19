@@ -1,4 +1,4 @@
-### Hi, I'm Emmanuel Orji-Ihuoma 👋
+### Hi, I'm Emmanuel P. Orji 👋
 
 <!--
 **emmiiorji/emmiiorji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
